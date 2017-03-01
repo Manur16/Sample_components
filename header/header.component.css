@@ -1,0 +1,23 @@
+.header__left{
+    margin: 21px 0px 0px 0px;
+    padding-left:2%;
+    font-weight: 900;
+    font-size:125%;
+}
+.header__left__sub{
+    font-weight: 500;
+    font-size: 100%;
+}
+.header__right{
+    text-align: right;
+    padding-right: 3%;
+    margin-top: 21px;
+}
+.header__right--pos{
+    text-align: right;
+    padding-right: 0px;
+    margin-top: 21px;
+}
+.header__anchor{
+    cursor:pointer;
+}
