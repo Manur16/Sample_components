@@ -1,0 +1,22 @@
+{
+  "name": "fusion_firecomponents",
+  "version": "0.0.1",
+  "description": "fusion site detail component",
+  "main": "",
+  "keywords": [
+    "fusion"
+  ],
+  "authors": [
+    "Swati",
+    "Manohar"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
